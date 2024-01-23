@@ -1,0 +1,23 @@
+.Results {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Results-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  // flex-basis: 20%;
+  width: 20%;
+  padding: 0.5rem 0.75rem;
+  box-sizing: border-box;
+}
+
+.Results-symbol {
+  font-size: 4rem;
+}
+
+.Results-title {
+  text-align: center;
+}
