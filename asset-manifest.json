@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Search-Emojis/static/css/main.c5c760c6.chunk.css",
+    "main.js": "/Search-Emojis/static/js/main.664d08ef.chunk.js",
+    "main.js.map": "/Search-Emojis/static/js/main.664d08ef.chunk.js.map",
+    "runtime-main.js": "/Search-Emojis/static/js/runtime-main.3433d107.js",
+    "runtime-main.js.map": "/Search-Emojis/static/js/runtime-main.3433d107.js.map",
+    "static/js/2.a9a5bae3.chunk.js": "/Search-Emojis/static/js/2.a9a5bae3.chunk.js",
+    "static/js/2.a9a5bae3.chunk.js.map": "/Search-Emojis/static/js/2.a9a5bae3.chunk.js.map",
+    "index.html": "/Search-Emojis/index.html",
+    "static/css/main.c5c760c6.chunk.css.map": "/Search-Emojis/static/css/main.c5c760c6.chunk.css.map",
+    "static/js/2.a9a5bae3.chunk.js.LICENSE.txt": "/Search-Emojis/static/js/2.a9a5bae3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3433d107.js",
+    "static/js/2.a9a5bae3.chunk.js",
+    "static/css/main.c5c760c6.chunk.css",
+    "static/js/main.664d08ef.chunk.js"
+  ]
+}
